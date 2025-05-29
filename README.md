@@ -4,14 +4,12 @@
 
 > Sipograf adalah aplikasi yang digunakan untuk pencatatan data balita dan visualisasi KMS (Kartu Menuju Sehat) dalam bentuk grafik pertumbuhan, guna mendukung pemantauan gizi secara efisien dan akurat di Posyandu.
 
----
 
 ## 🛠 Teknologi yang Digunakan
 
 - **Python** untuk antarmuka pengguna
 - **MySQL** sebagai basis data
 
----
 
 ## 📌 Cara Menggunakan Aplikasi
 
@@ -29,7 +27,6 @@
 
 7. Setelah aplikasi terbuka, login sebagai petugas dan mulai mengelola data balita, memasukkan data pengukuran, serta melihat grafik pertumbuhan KMS.
 
----
 
 ## 📂 Struktur Proyek 
 
@@ -45,7 +42,6 @@
 
 - **`requirements.txt`** – Daftar dependensi Python
 
----
 
 ## ⚙️ Fitur Utama
 - Login petugas Posyandu
@@ -58,7 +54,6 @@
 
 - Cetak grafik atau laporan jika diperlukan
 
----
 
 ## 📃 Lisensi
 
