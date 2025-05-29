@@ -1,12 +1,17 @@
-🩺 Sipograf - Sistem Informasi Posyandu dengan KMS
-Sipograf adalah aplikasi yang digunakan untuk pencatatan data balita dan visualisasi KMS (Kartu Menuju Sehat) dalam bentuk grafik pertumbuhan, guna mendukung pemantauan gizi secara efisien dan akurat di Posyandu.
+<p align="center"><img src="https://imgur.com/HTnIUB4.png" width="350"></p>
 
-🛠 Teknologi yang Digunakan
+# 🩺 Sipograf - Sistem Informasi Posyandu dengan KMS
+
+> Sipograf adalah aplikasi yang digunakan untuk pencatatan data balita dan visualisasi KMS (Kartu Menuju Sehat) dalam bentuk grafik pertumbuhan, guna mendukung pemantauan gizi secara efisien dan akurat di Posyandu.
+
+## 🛠 Teknologi yang Digunakan
+
 - Python + Kivy untuk antarmuka pengguna
 - MySQL sebagai basis data
 
 
-📌 Cara Menggunakan Aplikasi
+## 📌 Cara Menggunakan Aplikasi
+
 1. Clone repositori ini ke komputer kamu.
 
 2. Buat database MySQL baru dengan nama sipograf_db.
@@ -21,20 +26,21 @@ Sipograf adalah aplikasi yang digunakan untuk pencatatan data balita dan visuali
 
 7. Setelah aplikasi terbuka, login sebagai petugas dan mulai mengelola data balita, memasukkan data pengukuran, serta melihat grafik pertumbuhan KMS.
 
-📂 Struktur Proyek (Ringkas)
--> main.py – File utama untuk menjalankan aplikasi
+## 📂 Struktur Proyek 
 
--> config.py – Pengaturan koneksi database
+- main.py – File utama untuk menjalankan aplikasi
 
--> database/sipograf_db.sql – File SQL untuk membuat database dan tabel
+- config.py – Pengaturan koneksi database
 
--> screens/ – Folder untuk tampilan dan logika per layar
+- database/sipograf_db.sql – File SQL untuk membuat database dan tabel
 
--> assets/ – Folder untuk gambar/icon
+- screens/ – Folder untuk tampilan dan logika per layar
 
--> requirements.txt – Daftar dependensi Python
+- assets/ – Folder untuk gambar/icon
 
-⚙️ Fitur Utama
+- requirements.txt – Daftar dependensi Python
+
+## ⚙️ Fitur Utama
 - Login petugas Posyandu
 
 - Input, edit, dan hapus data balita
@@ -43,4 +49,9 @@ Sipograf adalah aplikasi yang digunakan untuk pencatatan data balita dan visuali
 
 - Visualisasi grafik pertumbuhan berdasarkan KMS
 
--Cetak grafik atau laporan jika diperlukan
+- Cetak grafik atau laporan jika diperlukan
+
+## 📃 Lisensi
+
+Proyek ini dirilis di bawah [MIT License](https://opensource.org/licenses/MIT).  
+Bebas digunakan untuk keperluan pribadi maupun komersial dengan atribusi yang sesuai.
