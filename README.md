@@ -30,9 +30,9 @@
 
 ## 📂 Struktur Proyek 
 
-- **`main.py`** – File utama untuk menjalankan aplikasi
+- **`index.html`** – File utama untuk menjalankan aplikasi
 
-- **`config.py`** – Pengaturan koneksi database
+- **`connection.php`** – Pengaturan koneksi database
 
 - **`database/dbsipograf.sql`** – File SQL untuk membuat database dan tabel
 
