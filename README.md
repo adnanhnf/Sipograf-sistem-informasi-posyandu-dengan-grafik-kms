@@ -6,8 +6,8 @@
 
 ## 🛠 Teknologi yang Digunakan
 
-- Python + Kivy untuk antarmuka pengguna
-- MySQL sebagai basis data
+- **Python** untuk antarmuka pengguna
+- **MySQL** sebagai basis data
 
 
 ## 📌 Cara Menggunakan Aplikasi
@@ -28,17 +28,17 @@
 
 ## 📂 Struktur Proyek 
 
-- main.py – File utama untuk menjalankan aplikasi
+- **`main.py`** – File utama untuk menjalankan aplikasi
 
-- config.py – Pengaturan koneksi database
+- **`config.py`** – Pengaturan koneksi database
 
-- database/sipograf_db.sql – File SQL untuk membuat database dan tabel
+- **`database/dbsipograf.sql`** – File SQL untuk membuat database dan tabel
 
-- screens/ – Folder untuk tampilan dan logika per layar
+- **`screens/`** – Folder untuk tampilan dan logika per layar
 
-- assets/ – Folder untuk gambar/icon
+- **`assets/`** – Folder untuk gambar/icon
 
-- requirements.txt – Daftar dependensi Python
+- **`requirements.txt`** – Daftar dependensi Python
 
 ## ⚙️ Fitur Utama
 - Login petugas Posyandu
