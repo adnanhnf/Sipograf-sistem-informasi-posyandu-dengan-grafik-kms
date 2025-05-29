@@ -34,11 +34,9 @@
 
 - **`connection.php`** – Pengaturan koneksi database
 
-- **`database/dbsipograf.sql`** – File SQL untuk membuat database dan tabel
+- **`dbsipograf.sql`** – File SQL untuk membuat database dan tabel
 
-- **`screens/`** – Folder untuk tampilan dan logika per layar
-
-- **`assets/`** – Folder untuk gambar/icon
+- **`img/`** – Folder untuk gambar/icon
 
 - **`requirements.txt`** – Daftar dependensi Python
 
