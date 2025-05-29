@@ -38,8 +38,9 @@
 
 - **`img/`** – Folder untuk gambar/icon
 
-- **`requirements.txt`** – Daftar dependensi Python
-
+- **`css`** – Berisi file stylesheet untuk mengatur tampilan antarmuka aplikasi
+  
+-**`penimbangan`** – Berisi data atau logika aplikasi terkait proses penimbangan balita
 
 ## ⚙️ Fitur Utama
 - Login petugas Posyandu
