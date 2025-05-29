@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/HTnIUB4.png" width="450"></p>
+<p align="center"><img src="https://imgur.com/HTnIUB4.png" width="500"></p>
 
 # 🩺 Sipograf - Sistem Informasi Posyandu dengan KMS
 
