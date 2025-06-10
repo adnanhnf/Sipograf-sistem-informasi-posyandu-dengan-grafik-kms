@@ -5,7 +5,7 @@
 > Sipograf adalah aplikasi yang digunakan untuk pencatatan data balita dan visualisasi KMS (Kartu Menuju Sehat) dalam bentuk grafik pertumbuhan, guna mendukung pemantauan gizi secara efisien dan akurat di Posyandu.
 
 
-## 🛠 Teknologi yang Digunakan
+## 🛠 Tools yang Digunakan
 
 - **Python** untuk antarmuka pengguna
 - **MySQL** sebagai basis data
